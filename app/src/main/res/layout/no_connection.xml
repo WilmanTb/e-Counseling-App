@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="270dp"
+        android:layout_height="270dp"
+        android:layout_gravity="center"
+        android:src="@drawable/noconnection" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_light"
+        android:text="OOPS!"
+        android:textColor="#E30D0D"
+        android:textStyle="bold"
+        android:textSize="30sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_light"
+        android:text="Tidak ada koneksi internet"
+        android:textColor="#E30D0D"
+        android:textSize="20sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_light"
+        android:text="Mohon cek koneksi internet anda"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btnMuatUlang"
+        android:background="@drawable/custombutton"
+        android:layout_width="187dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="25dp"
+        android:fontFamily="@font/poppins_light"
+        android:text="Muat ulang"
+        android:layout_marginBottom="50dp"
+        android:textAllCaps="false"
+        android:textSize="16sp" />
+
+</LinearLayout>

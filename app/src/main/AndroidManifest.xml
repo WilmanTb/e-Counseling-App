@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.e_counseling.e_counseling">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ECounseling">
+        <activity
+            android:name=".Activity.Guru.Activity_Kelas_XII"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Guru.Activity_Kelas_XI"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Guru.Activity_Kelas_X"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.OrangTua.Activity_Lengkapi_Data_OrangTua"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Guru.Activity_Desc_Jadwal_Konseling"
+            android:exported="false"
+            android:parentActivityName=".Activity.Guru.Activity_JadwalKonseling" />
+        <activity
+            android:name=".Activity.Guru.Activity_Buat_Jadwal_Konseling"
+            android:exported="true" />
+        <activity
+            android:name=".Activity.OrangTua.Activity_Jadwal_Konseling_OrangTua"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.OrangTua.Activity_Kelakuan_Anak"
+            android:exported="false"
+            android:parentActivityName=".Activity.OrangTua.Activity_Dashboard_OrangTua" />
+        <activity
+            android:name=".Activity.Siswa.Activity_Verifikasi_Email"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Siswa.Activity_Lengkapi_Data"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Siswa.Activity_Desc_Jadwal_Konsultasi_Siswa"
+            android:exported="false"
+            android:parentActivityName=".Activity.Siswa.Activity_JadwalKonseling_Siswa" />
+        <activity
+            android:name=".Activity.Siswa.Activity_Pengaduan_Siswa"
+            android:exported="false"
+            android:parentActivityName=".Activity.Siswa.Activity_Dashboard_Siswa" />
+        <activity
+            android:name=".Activity.Siswa.Activity_JadwalKonseling_Siswa"
+            android:exported="false"
+            android:parentActivityName=".Activity.Siswa.Activity_Dashboard_Siswa" />
+        <activity
+            android:name=".Activity.Siswa.Activity_Kelakuan_Siswa"
+            android:exported="false"
+            android:parentActivityName=".Activity.Siswa.Activity_Dashboard_Siswa" />
+        <activity
+            android:name=".Activity.Siswa.Activity_Dashboard_Siswa"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.OrangTua.Activity_Dashboard_OrangTua"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Guru.Activity_DescPermintaanKonseling"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Guru.Activity_DataKelas"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Guru.Activity_Desc_LaporanPelanggaran"
+            android:exported="false"
+            android:parentActivityName=".Activity.Guru.Activity_LaporanPelanggaran" />
+        <activity
+            android:name=".Activity.Guru.Activity_DescPelanggaran"
+            android:exported="false"
+            android:parentActivityName=".Activity.Guru.Activity_Pengaduan" />
+        <activity
+            android:name=".Activity.Guru.Activity_Laporan"
+            android:exported="false"
+            android:parentActivityName=".Activity.Guru.Activity_DashboardGuruBK" />
+        <activity
+            android:name=".Activity.Guru.Activity_JadwalKonseling"
+            android:exported="false"
+            android:parentActivityName=".Activity.Guru.Activity_DashboardGuruBK" />
+        <activity
+            android:name=".Activity.Guru.Activity_DataPerilakuSiswa"
+            android:exported="false"
+            android:parentActivityName=".Activity.Guru.Activity_DashboardGuruBK" />
+        <activity
+            android:name=".Activity.Guru.Activity_LaporanPelanggaran"
+            android:exported="false"
+            android:parentActivityName=".Activity.Guru.Activity_DashboardGuruBK" />
+        <activity
+            android:name=".Activity.Guru.Activity_Pengaduan"
+            android:exported="false"
+            android:parentActivityName=".Activity.Guru.Activity_DashboardGuruBK" />
+        <activity
+            android:name=".Activity.Guru.Activity_DashboardGuruBK"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Activity_Register"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Activity_Login"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Activity_Splash"
+            android:exported="false" />
+        <activity
+            android:name=".Activity.Activity_Home"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

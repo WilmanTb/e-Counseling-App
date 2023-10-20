@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/cvListJadwalKonselingSiswa"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginStart="30dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginEnd="30dp"
+    android:padding="20dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="8dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:paddingBottom="20dp">
+
+        <TextView
+            android:id="@+id/konseling"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:text="Konseling  : "
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_light"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="25dp"/>
+
+        <TextView
+            android:id="@+id/tvKonseling"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/konseling"
+            android:text=""
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_light"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="5dp"/>
+
+        <TextView
+            android:id="@+id/jadwal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/konseling"
+            app:layout_constraintStart_toStartOf="parent"
+            android:text="Jadwal :  "
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_light"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="25dp"/>
+
+        <TextView
+            android:id="@+id/jadwalKonseling"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/tvKonseling"
+            app:layout_constraintStart_toEndOf="@+id/jadwal"
+            android:text=""
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_light"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="5dp"/>
+
+        <TextView
+            android:id="@+id/perihal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/jadwal"
+            app:layout_constraintStart_toStartOf="parent"
+            android:text="Perihal :  "
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_light"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="25dp"/>
+
+        <TextView
+            android:id="@+id/perihalKonseling"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/jadwalKonseling"
+            app:layout_constraintStart_toEndOf="@+id/perihal"
+            android:textSize="17sp"
+            android:textColor="@color/black"
+            android:fontFamily="@font/poppins_light"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="5dp"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.cardview.widget.CardView>

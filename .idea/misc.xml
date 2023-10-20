@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/drawable/background.xml" value="0.2740740740740741" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/drawable/border.xml" value="0.37135416666666665" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/drawable/circle_background.xml" value="0.2740740740740741" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/drawable/custom_border.xml" value="0.2355" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/drawable/custom_cardview.xml" value="0.226" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/drawable/custombutton.xml" value="0.37135416666666665" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/drawable/customspinner.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/drawable/gradient_spinner.xml" value="0.2355" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/drawable/ic_add.xml" value="0.233" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/drawable/ic_home.xml" value="0.1295" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/drawable/ic_profile.xml" value="0.226" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/drawable/ic_right.xml" value="0.226" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout-hdpi/activity_desc_pelanggaran.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/abcd.xml" value="0.3515625" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_buat_jadwal_konseling.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_dashboard_guru_bk.xml" value="0.2" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_dashboard_orang_tua.xml" value="0.33" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_dashboard_siswa.xml" value="0.34974358974358977" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_data_kelas.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_data_perilaku_siswa.xml" value="0.33" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_desc_jadwal_konseling.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_desc_jadwal_konsultasi_siswa.xml" value="0.33" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_desc_laporan_pelanggaran.xml" value="0.3515625" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_desc_pelanggaran.xml" value="0.4370771312584574" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_desc_permintaan_konseling.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_home.xml" value="0.17" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_jadwal_konseling.xml" value="0.2" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_jadwal_konseling_orang_tua.xml" value="0.34974358974358977" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_jadwal_konseling_siswa.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_kelakuan_anak.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_kelakuan_siswa.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_kelas_x.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_kelas_xi.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_kelas_xii.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_laporan.xml" value="0.3515625" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_laporan_pelanggaran.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_lengkapi_data.xml" value="0.33" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_lengkapi_data_orang_tua.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_pengaduan.xml" value="0.33" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_pengaduan_siswa.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_permintaan_konseling.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_siswa.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_splash.xml" value="0.3411458333333333" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/activity_verifikasi_email.xml" value="0.33" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/fragment_dashboard_siswa.xml" value="0.22" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/fragment_dashboardorangtua.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/fragment_profil_siswa.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/fragment_profile.xml" value="0.3515625" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/fragment_profile_orangtua.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/kelasx.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/list_jadwal_konseling.xml" value="0.22" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/list_jadwal_konseling_siswa.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/list_kelakuan.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/list_kelakuan_anak.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/list_kelakuan_siswa.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/list_kelas_siswa.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/list_pelanggaran.xml" value="0.33" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/list_permintaan_konseling.xml" value="0.23148148148148148" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/login_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/nav_header.xml" value="0.3515625" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/no_connection.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/popup_cek_verifikasi_email.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/popup_kelasx.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/popup_kelasxi.xml" value="0.3515625" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/popup_kelasxii.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/popup_verifikasi_email.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/register_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/register_gurubk_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/register_orangtua_fragment.xml" value="0.3515625" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/register_siswa_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/skor_siswa.xml" value="0.25" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/testing.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/layout/toolbar.xml" value="0.35520833333333335" />
+        <entry key="..\:/Users/Kiki Tb/AndroidStudioProjects/eCounseling/app/src/main/res/menu/drawer_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Embedded JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">e-Counseling</string>
+    <string name="Login">Sudah Punya Akun ? <font color='#0645AD'>Login</font></string>
+    <string name="Login2">Belum Punya Akun ? <font color='#0645AD'>Register</font></string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string-array name="Status">
+        <item>Guru BK</item>
+        <item>Orang Tua</item>
+        <item>Siswa</item>
+    </string-array>
+
+    <string-array name="Jurusan">
+        <item>Pilih Jurusan...</item>
+        <item>IPA</item>
+        <item>IPS</item>
+    </string-array>
+
+    <string-array name="Jenis_Konseling">
+        <item>Pilih jenis konseling...</item>
+        <item>Konseling Siswa</item>
+        <item>Konseling Siswa dan Orang Tua</item>
+        <item>Konseling Orang Tua</item>
+    </string-array>
+
+    <string-array name="Metode_Konseling">
+        <item>Pilih metode konseling...</item>
+        <item>Online</item>
+        <item>Offline</item>
+    </string-array>
+
+    <string-array name="Kelas">
+        <item>Pilih Kelas...</item>
+        <item>X-1</item>
+        <item>X-2</item>
+        <item>X-3</item>
+        <item>XI-1</item>
+        <item>XI-2</item>
+        <item>XI-3</item>
+        <item>XII-1</item>
+        <item>XII-2</item>
+        <item>XII-3</item>
+    </string-array>
+
+    <string-array name="Lokasi">
+        <item>Pilih Lokasi...</item>
+        <item>Gerbang Sekolah</item>
+        <item>Lapangan Upacara</item>
+        <item>Didalam Kelas</item>
+        <item>Kantin Sekolah</item>
+        <item>Laboratorium</item>
+        <item>Di Sekitar Sekolah</item>
+    </string-array>
+
+
+</resources>
